@@ -1,2 +1,13 @@
 .venv
 env.py
+db.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+/static/
+/media/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
